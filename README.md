@@ -1,3 +1,3 @@
 # GSC-Movie-Booking
 
-![Uploading image.png…](GSC-Movie-Booking/image.png)
+![Uploading image.png…](image.png)
